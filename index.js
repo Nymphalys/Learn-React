@@ -1,3 +1,10 @@
+function Components (){
+    return (
+        <div>I love my beauty</div>
+    )
+}
+
+
 ReactDOM.render(
     <div>
       <h1>Hello Cutie</h1>
@@ -7,5 +14,7 @@ ReactDOM.render(
           <li>Ice Cream</li>
           <li>Coffee Date</li>
        </ul>
-    </div>
-, document.getElementById("root"))
+       <Components/>
+    </div>, 
+    document.getElementById("root")
+)
