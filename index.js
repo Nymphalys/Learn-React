@@ -1,6 +1,6 @@
 function Components (){
     return (
-        <div>I love my beauty</div>
+        <div>#laavi</div>
     )
 }
 
@@ -9,7 +9,7 @@ ReactDOM.render(
     <div>
       <h1>Hello Cutie</h1>
       <br/>
-      <p>Hows my Sugarplum doin?</p>
+      <p>What my Sugarplum wants?</p>
       <ul>
           <li>Ice Cream</li>
           <li>Coffee Date</li>
