@@ -9,7 +9,7 @@ ReactDOM.render(
     <div>
       <h1>Hello Cutie</h1>
       <br/>
-      <p>Hows mmy Sugarplum doin?</p>
+      <p>Hows my Sugarplum doin?</p>
       <ul>
           <li>Ice Cream</li>
           <li>Coffee Date</li>
